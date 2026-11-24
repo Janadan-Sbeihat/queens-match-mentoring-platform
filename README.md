@@ -536,8 +536,8 @@ Built as a QueenB bootcamp team project. Git history credits:
 
 | Person | Git identity |
 | --- | --- |
+| Janadan Sbeihat | `janadansbeihat` |
 | Adi Shemesh | `adiShemesh95` |
-| Jana Sbeihat | `janadansbeihat` |
 | Stav Yemin | `Stav Yemin` |
 
 **Acknowledgments**
