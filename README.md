@@ -544,7 +544,6 @@ Built as a QueenB bootcamp team project. Git history credits:
 
 - [QueenB](https://www.queenb.org.il/) — bootcamp and community mission
 - [AppsFlyer](https://www.appsflyer.com/) — industry partner for Bootcamp 2026
-- Shirley Kulbak — AppsFlyer / bootcamp repository setup and early template work in git history
 
 This README documents the product as implemented by the team. It does not assign individual feature ownership.
 
