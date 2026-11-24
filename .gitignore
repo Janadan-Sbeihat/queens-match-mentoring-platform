@@ -7,8 +7,9 @@ server/node_modules/
 client/build/
 dist/
 
-# Environment variables
+# Environment variables (never commit secrets)
 .env
+server/.env
 .env.local
 .env.development.local
 .env.test.local
